@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**omarabdelkhaliq/omarabdelkhaliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at New Mansoura University  
+💻 Aspiring Full-Stack Developer  
+🌱 Currently improving my JavaScript skills and exploring modern web technologies.  
+🚀 I enjoy building projects, solving problems, and learning something new every day.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Multi-Step Form](https://omarabdelkhaliq.github.io/Multi-step-form/)
+- [REST Countries App](https://omarabdelkhaliq.github.io/REST-Countries/)
+- [Weather App](https://omarabdelkhaliq.github.io/Weather-app/)
+- [CRUD Project](https://omarabdelkhaliq.github.io/crud-project/)
+
+## 🎯 My Goal
+To become a skilled Full-Stack Developer by continuously learning, building real-world projects, and improving my problem-solving skills.
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/omar-abdelkhaliq-027180242/)
+- [GitHub](https://github.com/omarabdelkhaliq)
